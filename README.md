@@ -21,3 +21,11 @@
 # 1. git add .
 # 2. git commit -m "add"
 # 3. git push
+
+
+# ======================= Git Branch ============================
+# to know the branch => git branch
+# to change the branch name => git branch -M main(new branch name)
+# to navigate branch 1 to another => git checkout
+# to create new branch => git checkout -b
+# to delete branch 
