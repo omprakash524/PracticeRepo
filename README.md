@@ -8,3 +8,10 @@
 # 6. now go to github and copy the link when you just created the repository
 # 7. come to vs code terminal -> git clone https://github.com/omprakash524/PracticeRepo.git
 # 8. and done...
+# ------------------------------------------------------
+# git init
+# git remote add origin https://github.com/omprakash524/PracticeRepo.git
+# git remote -v
+# git branch
+# git branch -M main
+# git push origin main
