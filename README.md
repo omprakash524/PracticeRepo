@@ -15,3 +15,9 @@
 # git branch
 # git branch -M main
 # git push origin main
+
+# --------------------------------------------------------
+# in future if we have edited in code then steps could be
+# 1. git add .
+# 2. git commit -m "add"
+# 3. git push
